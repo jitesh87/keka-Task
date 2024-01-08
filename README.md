@@ -51,8 +51,10 @@ USAGE
           To delete a task.
           The app provides a simple and intuitive interface for effective task management.
 
+IMAGES
+------
 
-![keka task img-3](https://github.com/jitesh87/keka-Task/assets/84616284/b14ec3db-7dfc-4fe1-bba0-da6307d68398)
-![keka task img-2](https://github.com/jitesh87/keka-Task/assets/84616284/ca18f4a0-5f95-4c0a-99ca-4fece88e73e2)
 ![keka task img-1](https://github.com/jitesh87/keka-Task/assets/84616284/a842f849-1501-49e4-be6f-54edc4732073)
+![keka task img-2](https://github.com/jitesh87/keka-Task/assets/84616284/ca18f4a0-5f95-4c0a-99ca-4fece88e73e2)
+![keka task img-3](https://github.com/jitesh87/keka-Task/assets/84616284/b14ec3db-7dfc-4fe1-bba0-da6307d68398)
 
